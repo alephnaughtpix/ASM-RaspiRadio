@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Based on a bash script by Dan Krause. https://gist.github.com/dankrause/2a9ed5ed30fa7f9aaaa2
+
 set -e
 
 function cleanup() {
